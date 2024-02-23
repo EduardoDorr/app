@@ -1,0 +1,496 @@
+{
+  "tags": [
+    {
+      "title": "React",
+      "amountOfVideos": 89
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 56
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 34
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 112
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "TypeScript",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "PHP",
+      "amountOfVideos": 68
+    },
+    {
+      "title": "Swift",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "C#",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 27
+    },
+    {
+      "title": "Go",
+      "amountOfVideos": 48
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 32
+    },
+    {
+      "title": "Express.js",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "MongoDB",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "PostgreSQL",
+      "amountOfVideos": 53
+    },
+    {
+      "title": "Firebase",
+      "amountOfVideos": 66
+    },
+    {
+      "title": "Docker",
+      "amountOfVideos": 71
+    },
+    {
+      "title": "Kubernetes",
+      "amountOfVideos": 59
+    },
+    {
+      "title": "Machine Learning",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Data Science",
+      "amountOfVideos": 82
+    },
+    {
+      "title": "Blockchain",
+      "amountOfVideos": 37
+    },
+    {
+      "title": "TensorFlow",
+      "amountOfVideos": 87
+    },
+    {
+      "title": "PyTorch",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "Unity",
+      "amountOfVideos": 44
+    },
+    {
+      "title": "Blender",
+      "amountOfVideos": 26
+    },
+    {
+      "title": "Game Development",
+      "amountOfVideos": 69
+    },
+    {
+      "title": "Augmented Reality",
+      "amountOfVideos": 31
+    },
+    {
+      "title": "Virtual Reality",
+      "amountOfVideos": 58
+    },
+    {
+      "title": "Cybersecurity",
+      "amountOfVideos": 76
+    },
+    {
+      "title": "Ethical Hacking",
+      "amountOfVideos": 49
+    },
+    {
+      "title": "Artificial Intelligence",
+      "amountOfVideos": 93
+    },
+    {
+      "title": "Natural Language Processing",
+      "amountOfVideos": 64
+    },
+    {
+      "title": "Computer Vision",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Big Data",
+      "amountOfVideos": 52
+    },
+    {
+      "title": "Cloud Computing",
+      "amountOfVideos": 38
+    },
+    {
+      "title": "React Native",
+      "amountOfVideos": 74
+    },
+    {
+      "title": "Flutter",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "Mobile App Development",
+      "amountOfVideos": 54
+    },
+    {
+      "title": "Web Development",
+      "amountOfVideos": 79
+    },
+    {
+      "title": "Full Stack Development",
+      "amountOfVideos": 43
+    },
+    {
+      "title": "Frontend Development",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Backend Development",
+      "amountOfVideos": 84
+    },
+    {
+      "title": "APIs",
+      "amountOfVideos": 57
+    },
+    {
+      "title": "GraphQL",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "RESTful APIs",
+      "amountOfVideos": 46
+    },
+    {
+      "title": "CI/CD",
+      "amountOfVideos": 91
+    },
+    {
+      "title": "Git",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Jenkins",
+      "amountOfVideos": 33
+    },
+    {
+      "title": "Agile",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "Scrum",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "DevOps",
+      "amountOfVideos": 72
+    },
+    {
+      "title": "UI/UX Design",
+      "amountOfVideos": 25
+    },
+    {
+      "title": "Adobe XD",
+      "amountOfVideos": 67
+    },
+    {
+      "title": "Figma",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Sketch",
+      "amountOfVideos": 48
+    },
+    {
+      "title": "Product Management",
+      "amountOfVideos": 61
+    },
+    {
+      "title": "Startup",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Entrepreneurship",
+      "amountOfVideos": 59
+    },
+    {
+      "title": "Digital Marketing",
+      "amountOfVideos": 83
+    },
+    {
+      "title": "SEO",
+      "amountOfVideos": 47
+    },
+    {
+      "title": "Social Media Marketing",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "Content Creation",
+      "amountOfVideos": 32
+    },
+    {
+      "title": "Photography",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "Video Editing",
+      "amountOfVideos": 79
+    },
+    {
+      "title": "Podcasting",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "Music Production",
+      "amountOfVideos": 64
+    },
+    {
+      "title": "Graphic Design",
+      "amountOfVideos": 93
+    },
+    {
+      "title": "Illustrator",
+      "amountOfVideos": 38
+    },
+    {
+      "title": "Photoshop",
+      "amountOfVideos": 74
+    },
+    {
+      "title": "3D Modeling",
+      "amountOfVideos": 52
+    },
+    {
+      "title": "Virtual Instruments",
+      "amountOfVideos": 47
+    },
+    {
+      "title": "Vue.js 3",
+      "amountOfVideos": 57
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 22
+    },
+    {
+      "title": "Rust",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "Haskell",
+      "amountOfVideos": 18
+    },
+    {
+      "title": "Scala",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "Kotlin",
+      "amountOfVideos": 44
+    },
+    {
+      "title": "Elixir",
+      "amountOfVideos": 31
+    },
+    {
+      "title": "Clojure",
+      "amountOfVideos": 26
+    },
+    {
+      "title": "GraphQL Apollo",
+      "amountOfVideos": 38
+    },
+    {
+      "title": "RxJS",
+      "amountOfVideos": 47
+    },
+    {
+      "title": "Dart",
+      "amountOfVideos": 35
+    },
+    {
+      "title": ".NET Core",
+      "amountOfVideos": 52
+    },
+    {
+      "title": "Spring Boot",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "Flask",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "Ruby on Rails",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "Laravel",
+      "amountOfVideos": 49
+    },
+    {
+      "title": "D3.js",
+      "amountOfVideos": 21
+    },
+    {
+      "title": "Highcharts",
+      "amountOfVideos": 27
+    },
+    {
+      "title": "Chart.js",
+      "amountOfVideos": 33
+    },
+    {
+      "title": "Gatsby",
+      "amountOfVideos": 38
+    },
+    {
+      "title": "Next.js",
+      "amountOfVideos": 46
+    },
+    {
+      "title": "Nuxt.js",
+      "amountOfVideos": 25
+    },
+    {
+      "title": "Raspberry Pi",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Arduino",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "RPA (Robotic Process Automation)",
+      "amountOfVideos": 31
+    },
+    {
+      "title": "Cypress",
+      "amountOfVideos": 37
+    },
+    {
+      "title": "Jest",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "Cucumber",
+      "amountOfVideos": 24
+    },
+    {
+      "title": "CI/CD with GitHub Actions",
+      "amountOfVideos": 33
+    },
+    {
+      "title": "Amazon Web Services (AWS)",
+      "amountOfVideos": 58
+    },
+    {
+      "title": "Microsoft Azure",
+      "amountOfVideos": 51
+    },
+    {
+      "title": "Google Cloud Platform (GCP)",
+      "amountOfVideos": 47
+    },
+    {
+      "title": "Serverless Architecture",
+      "amountOfVideos": 34
+    },
+    {
+      "title": "Microservices",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "GraphQL Yoga",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "Prisma",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "Tailwind CSS",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Bulma",
+      "amountOfVideos": 27
+    },
+    {
+      "title": "Material-UI",
+      "amountOfVideos": 38
+    },
+    {
+      "title": "Ant Design",
+      "amountOfVideos": 33
+    },
+    {
+      "title": "Storybook",
+      "amountOfVideos": 26
+    },
+    {
+      "title": "JAMstack",
+      "amountOfVideos": 49
+    },
+    {
+      "title": "WebAssembly",
+      "amountOfVideos": 31
+    },
+    {
+      "title": "Quantum Computing",
+      "amountOfVideos": 19
+    },
+    {
+      "title": "Edge Computing",
+      "amountOfVideos": 22
+    },
+    {
+      "title": "5G Technology",
+      "amountOfVideos": 37
+    },
+    {
+      "title": "Internet of Things (IoT)",
+      "amountOfVideos": 44
+    }
+  ]
+}
